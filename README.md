@@ -164,3 +164,4 @@ Eu enquanto administrador necessito da edição das entregas para administrar as
 
 US051 / SPRINT3 / 25NOV20
 Eu enquanto motorista necessito exibir a conclusão das entregas para constar no sistema.
+# PI-IACIT
